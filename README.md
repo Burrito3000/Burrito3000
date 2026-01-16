@@ -1,20 +1,30 @@
-<h1 align="center">Hi 👋, I'm Burrito</h1>
-<h3 align="center">WAGMI</h3>
+Building software products around AI, engineering, and distribution.
+Based in Bengaluru.
 
-- 🔭 I’m currently working on **100Daysofcode**
+I focus on shipping practical systems, learning from real users, and iterating fast.
 
-- 🌱 I’m currently learning **React Native**
+⸻
 
-- 👯 I’m looking to collaborate on **Cybersec**
+What I work on
+	•	AI-native products and internal tools
+	•	Full-stack web systems
+	•	Product-led growth and automation
+	•	Community and platform ideas
 
-- 🤝 I’m looking for help with **React**
+⸻
 
-- 📝 I regularly write articles on [Twitter](Twitter)
+Stack
 
-- 💬 Ask me about **Web3**
+TypeScript, Python, React, Next.js, Node.js, FastAPI, Postgres, Docker, AWS, LLMs
 
-- 📫 How to reach me **kbajori50@gmail.com**
+⸻
 
-- ⚡ Fun fact **I am extremely wierd**
+Currently exploring
 
+AI agents, responsible AI use, small teams with high leverage
 
+⸻
+
+📫 Contact
+LinkedIn: https://linkedin.com/in/kushal-bajoria-636733156
+Email: kbajori50@gmail.com
